@@ -36,7 +36,7 @@ This is a personal project that I run and test on my own property. The code in t
 
 Plain **HTML, CSS and JavaScript** in a single page, with no build step and no framework.
 
-- SVG map and canvas rendering
+- Layered **SVG** map (base layer + live layer) and **Canvas 2D** for the simulated camera view
 - [hls.js](https://github.com/video-dev/hls.js) for live camera streams
 - Web App Manifest and service worker (PWA)
 - GitHub Pages hosting
